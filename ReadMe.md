@@ -1,4 +1,5 @@
 some line
 I changed a line
 another line
-Courtney's change to the ReadMe
+another line that will create a conflict
+>>>>>>> userA
